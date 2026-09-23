@@ -18,4 +18,3 @@ Python • SQL • NumPy • Pandas • Scikit-learn
 ### Hobby 
 - combat sport(muay thai, mma, kickboxing)
   
-#BECOME A AI ENGINEER!!!!!
