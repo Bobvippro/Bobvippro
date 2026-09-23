@@ -15,5 +15,6 @@ Python • SQL • NumPy • Pandas • Scikit-learn
 - Complete NeetCode 150
 - Build Machine Learning projects
 - Become an AI Engineer
-
+### Hobby 
+- combat sport(muay thai, mma, kickboxing)
 #BECOME A AI ENGINEER!!!!!
